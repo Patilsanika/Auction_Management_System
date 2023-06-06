@@ -1,69 +1,39 @@
-# Online-Auction-MVC
-Online Auction is a online platform for auction and this project is made using PHP 5, MySQL, Javascript, JQuery, Bootstrap and HTML
-<pre>
-README FILE:
+# Auxin (Auction Management System)
 
-ONLINE AUCTION SYSTEM using PHP, by <a href="https://github.com/vinitKr">VINIT KUMAR</a>
+Auxin is a product auction management system is a software application or platform designed to facilitate and automate the process of conducting auctions for products. It provides a centralized platform for sellers to list their products for auction and allows potential buyers to bid on those products.
 
-CONTENTS
-I.	HOW TO START
-II.	HOW TO LAUNCH THE SYSTEM
-III.	MINIMUM SYSTEM REQUIREMENTS
-IV.	SOFTWARE/PLUG-IN DOWNLOADS
+![Screenshot 2023-06-06 221715](https://github.com/Patilsanika/Auction_Managemennt_System/assets/86789929/23f811ee-c6af-41f9-ad8e-0ec13e507c74)
 
+User Registration and Authentication: Users can create accounts, log in, and authenticate their identities to participate in auctions.
 
+Product Listing: Sellers can create listings for the products they want to auction, providing details such as product descriptions, images, starting prices, and auction durations.
 
+Bidding Functionality: Registered users can place bids on products they are interested in. The system should handle bid validation, bid increments, and automatically update the current highest bid.
 
-I. HOW TO START
+Admin Dashboard: An administrative dashboard allows administrators to manage user accounts, monitor auctions, resolve disputes, and perform other administrative tasks. 
 
-** Clone/download the "auctionMVC" project.
+## Tech Stack
+
+This project is made using PHP, MySQL, Javascript, JQuery, Bootstrap and HTML
 
 
+## Usage
 
-II. HOW TO LAUNCH THE SYSTEM
-
-** Windows(XAMPP User)
-1. Paste the "auctionMVC" folder at "C:\xampp\htdocs\" location.
-2. Launch XAMPP Control Panel.
-3. Start "Apache" and "MySQL" module.
+1. Clone/download the "Auction_Management_System" project.
+2. Paste the "Auction_Management_System" folder at "C:\xampp\htdocs\" location.
+3. Launch XAMPP Control Panel.
 4. Open a web browser.
-5. In URL field write "http://localhost/auctionMVC".
-6. For Admin Page write "http://localhost/auctionmvc/admin.php".
-7. For Database Admin write "http://localhost/phpmyadmin"
-
-** Windows(WAMP User)
-1. Paste the "auctionMVC" folder at "C:\xampp\www\" location.
-2. Launch WAMP Control Panel.
-3. Start "Apache" and "MySQL" module.
-4. Open a web browser.
-5. In URL field write "http://localhost/auctionMVC".
-6. For Admin Page write "http://localhost/auctionmvc/admin.php".
-7. For Database Admin write "http://localhost/phpmyadmin"
-
-
-
-III. MINIMUM SYSTEM REQUIREMENTS
-
-**Database
-¥ Make sure to import the databse to "localhost/phpmyadmin".
-¥ To import Database:
+5. In URL field write "http://localhost/Auction_Management_System".
+6. For Admin Page write "http://localhost/Auction_Management_System/admin.php".
+7. Make sure to import the databse to "localhost/phpmyadmin".
+8. To import Database:
 	1. goto 'import' tab.
 	2. select 'choose File' option.
 	3. select 'nilamee.sql' from the 'auctionMVC/nilamee.sql'.
 
-** OS(Windows)
-¥ Windows 2003, XP, VISTA, 7
-¥ Pentium IV or higher 
-¥ Minimum 512 MB of RAM
-¥ Minimum 750 MB of HDD
-¥ Quad-speed CD-ROM drive
-¥ Internet Explorer 5.5, 6.0, Mozilla Firefox, Google Chrome
+## Installation
 
-
-
-IV. SOFTWARE/PLUG-IN DOWNLOADS 
 ¥ XAMPP Server.
-¥ Macromedia Dreamweaver, Aptana Studio, Notepad.
 ¥ Library: Bootstrap, PHP, javaScript, JQuery.
 
-</pre>
+
