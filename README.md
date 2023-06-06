@@ -18,7 +18,6 @@ Admin Dashboard: An administrative dashboard allows administrators to manage use
 
 This project is made using PHP, MySQL, Javascript, JQuery, Bootstrap and HTML
 
-
 ## Usage
 
 1. Clone/download the "Auction_Management_System" project.
@@ -31,11 +30,11 @@ This project is made using PHP, MySQL, Javascript, JQuery, Bootstrap and HTML
 8. To import Database:
 	1. goto 'import' tab.
 	2. select 'choose File' option.
-	3. select 'nilamee.sql' from the 'auctionMVC/nilamee.sql'.
+	3. select 'nilamee.sql' from the 'Auction_Management_System/nilamee.sql'.
 
 ## Installation
 
-¥ XAMPP Server.
-¥ Library: Bootstrap, PHP, javaScript, JQuery.
+1. XAMPP Server.
+2. Library: Bootstrap, PHP, javaScript, JQuery.
 
 
